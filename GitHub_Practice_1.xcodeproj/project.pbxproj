@@ -10,9 +10,22 @@
 		2580C4B92F5993F10038CFE2 /* GitHub_Practice_1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitHub_Practice_1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		2580C4CE2F5B96ED0038CFE2 /* Exceptions for "GitHub_Practice_1" folder in "GitHub_Practice_1" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Untitled.swift,
+			);
+			target = 2580C4B82F5993F10038CFE2 /* GitHub_Practice_1 */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		2580C4BB2F5993F10038CFE2 /* GitHub_Practice_1 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				2580C4CE2F5B96ED0038CFE2 /* Exceptions for "GitHub_Practice_1" folder in "GitHub_Practice_1" target */,
+			);
 			path = GitHub_Practice_1;
 			sourceTree = "<group>";
 		};
