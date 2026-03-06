@@ -1,0 +1,12 @@
+cat > .gitignore << 'EOF'
+# Xcode build
+DerivedData/
+build/
+
+# User settings
+xcuserdata/
+*.xcuserstate
+
+# macOS noise
+.DS_Store
+EOF
